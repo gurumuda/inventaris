@@ -1,0 +1,10 @@
+.idea/
+.gitignore
+.travis.yml
+test/
+bower.json
+webpack.config.js
+karma.conf.js
+yarn.lock
+coverage/
+.vscode

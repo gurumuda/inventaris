@@ -1,0 +1,9 @@
+language: node_js
+node_js:
+  - 8
+branches:
+  only:
+    - master
+sudo: required
+after_success:
+  - npm run coveralls
