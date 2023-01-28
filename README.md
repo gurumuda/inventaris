@@ -32,7 +32,7 @@ nama VARCHAR(100) NOT NULL, xuser VARCHAR(50) NOT NULL, xpass VARCHAR(70) NOT NU
 - Buat indeks untuk kolom identitas
 
 ```base
-CREATE INDEX identitas ON pengguna (identitas);
+CREATE INDEX identitas ON tb_pengguna (identitas);
 ```
 
 - Buat pengguna baru untuk administrator, langkah-langkah pembuatan user silakan lihat pada video berikut [Video Installasi](https://youtube.com)
