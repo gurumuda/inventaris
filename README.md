@@ -35,7 +35,7 @@ nama VARCHAR(100) NOT NULL, xuser VARCHAR(50) NOT NULL, xpass VARCHAR(70) NOT NU
 CREATE INDEX identitas ON tb_pengguna (identitas);
 ```
 
-- Buat pengguna baru untuk administrator, langkah-langkah pembuatan user silakan lihat pada video berikut [Video Installasi](https://youtube.com)
+- Buat pengguna baru untuk administrator, langkah-langkah pembuatan user silakan lihat pada video berikut [Video Installasi](https://youtu.be/3n-8hNs3tGE)
 
 ## Level Pengguna Pada Aplikasi
 
